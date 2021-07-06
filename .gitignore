@@ -15,6 +15,14 @@
 *.tax2010
 *.vcf
 *.xml
+*.pkl
+*.parquet
+*.ftd
+
+# Folders and Media
+*.mp4
+*.mp3
+video/
 
 ### Database ###
 *.accdb
@@ -63,7 +71,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -162,6 +169,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_analise_acoes/
 
 # Spyder project settings
 .spyderproject
