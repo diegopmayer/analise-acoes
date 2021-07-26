@@ -24,6 +24,8 @@
 *.mp4
 *.mp3
 video/
+markdown_notion/
+dataset/
 
 ### Database ###
 *.accdb
